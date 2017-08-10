@@ -4,4 +4,5 @@ public interface TestService {
 	void add();
 	void delete();
 	void save();
+	void remove();
 }
